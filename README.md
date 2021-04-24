@@ -21,7 +21,7 @@ SO THAT I can manage my time effectively
 ![Screenshot 2](./Assets/images/screenshot2.png)
 # 
 ## Contributors
-[Gurjant Riarl](https://github.com/GurjantRiar/workscheduler/
+[Gurjant Riar](https://github.com/GurjantRiar/workscheduler/
 )
 
 # 
