@@ -16,8 +16,8 @@ SO THAT I can manage my time effectively
 
 ## Acceptance Criteria
 # 
-![Screenshot 1](./assets/images/screenshot1.png)
+![Screenshot 1](./Assets/images/screenshot1.png)
 # 
-![Screenshot 2](./assets/images/screenshot2.png)
+![Screenshot 2](./Assets/images/screenshot2.png)
 # 
 
