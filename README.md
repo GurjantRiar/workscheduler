@@ -20,4 +20,23 @@ SO THAT I can manage my time effectively
 # 
 ![Screenshot 2](./Assets/images/screenshot2.png)
 # 
+## Contributors
+[Gurjant Riarl](https://github.com/GurjantRiar/workscheduler/
+)
+
+# 
+## Built With:
+[Visual Studio](https://visualstudio.microsoft.com/)
+
+[CSS](https://www.w3.org/TR/CSS/#css)
+
+
+
+# 
+## Links:
+[Email](riargurjant_85@yahoo.com)
+
+[Github Profile](https://github.com/GurjantRiar/
+)
+
 
